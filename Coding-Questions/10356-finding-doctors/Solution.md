@@ -2,6 +2,8 @@
 
 - Interview Question Date: May 2023
 - Google
+- Easy
+- ID 10356
 
 ## Question
 
