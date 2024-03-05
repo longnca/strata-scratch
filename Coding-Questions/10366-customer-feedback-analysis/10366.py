@@ -1,5 +1,7 @@
 import pandas as pd 
 
+customer_feedback = pd.DataFrame('customer_feedback')
+
 # Filter the dataframe as per the requirements: not short_comments AND from social_media
 filtered_df = customer_feedback[
     (customer_feedback['comment_category'] != 'short_comments') 
